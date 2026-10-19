@@ -1,0 +1,2 @@
+# OOP_Assignment1_905005652_LawrinBrianConradWilliams
+Student Learning Portal the Student Learning Portal is a Python application for managing student records and coursework. It enables users to add, view, search, and update student information, create and edit coursework, track coursework status and save data locally using JSON files. The project demonstrates object-oriented programming in education.
